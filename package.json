@@ -18,7 +18,6 @@
   ],
   "scripts": {
     "build": "svelte-package -i src -o dist",
-    "prepare": "pnpm run build",
     "check": "svelte-check --tsconfig ./tsconfig.json"
   },
   "peerDependencies": {
