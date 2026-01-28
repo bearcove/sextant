@@ -1,6 +1,7 @@
 {
   "name": "@bearcove/sextant",
   "version": "0.1.0",
+  "access": "public",
   "description": "Type-safe Svelte 5 router with nested routing support",
   "type": "module",
   "svelte": "./dist/index.js",
